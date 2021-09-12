@@ -11,3 +11,6 @@ This is one of the papers referenced in my recent post on seasonality of COVID-1
 In future posts, I’ll discuss the substance of these contributions. In this post, I’ll talk about my efforts at reproducing the results in the paper from the code and data available, which is a prerequisite for examining why the results are as they are, and for looking at how the methods used might be improved.
 
 I’ll also talk about an amusing / horrifying aspect of the R code used, which I encountered along the way, about CDC data sharing policy, and about the authors’ choices regarding some graphical presentations.
+
+
+Datasets are uploaded in this repository as .CSV & .nb files.
